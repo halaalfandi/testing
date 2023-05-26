@@ -13,7 +13,6 @@
 Read: https://github.com/goldbergyoni/javascript-testing-best-practices
 
 ## What you will need
-* Clone this repository: https://github.com/TomDoesTech/REST-API-Tutorial-Updated
 * An IDE or text editor (VS Code)
 * A package manager such as NPM or Yarn
 * Node.js installed
